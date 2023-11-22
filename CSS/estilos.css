@@ -1,0 +1,39 @@
+h1{
+    color: darkslategray;
+    text-align: center;
+}
+
+
+p{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    }
+
+.listas{
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    
+
+}
